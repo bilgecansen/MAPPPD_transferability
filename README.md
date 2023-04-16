@@ -1,2 +1,2 @@
 # MAPPPD_transferability
-Sen et al. (code for ecological indicators manuscript)
+Code for the manuscript titled "Spatio-temporal transferability of environmentally-dependent population models: Insights from the intrinsic predictabilities of Adélie penguin abundance time series".
